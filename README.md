@@ -1,10 +1,10 @@
-# CPS 小程序 - 活动入口汇总
+# 京东、淘宝、拼多多活动入口汇总
 
 本文档整理了京东、淘宝、拼多多三个平台的活动入口链接。
 
 ---
 
-## 京东活动 (themeColor: `#E2231A`)
+## 京东活动
 
 共 **8** 个活动入口：
 
@@ -21,7 +21,7 @@
 
 ---
 
-## 淘宝活动 (themeColor: `#FF5000`)
+## 淘宝活动
 
 共 **11** 个活动入口：
 
@@ -41,7 +41,7 @@
 
 ---
 
-## 拼多多活动 (themeColor: `#E91E63`)
+## 拼多多活动
 
 共 **5** 个活动入口：
 
@@ -52,14 +52,3 @@
 | 3 | 🎁 | 领券中心 | <https://mobile.yangkeduo.com/duo_transfer_channel.html?resourceType=40000&pid=40353314_284993965&cpsSign=CE_260908_40353314_284993965_29cbbf0cd5b7f043827021781c59c6ac&_x_ddjb_act=%7B%22st%22%3A%226%22%7D&duoduo_type=2> |
 | 4 | 🎯 | 最优玩法 | <https://mobile.yangkeduo.com/duo_collection.html?__page=dynamic&pid=40353314_284993965&duoduo_type=2> |
 | 5 | 🔥 | 今日爆款推荐 | <https://mobile.yangkeduo.com/duo_today_burst.html?pid=40353314_284993965&cpsSign=CM_260908_40353314_284993965_cd9f0c56fa9affae067d07e91b6af9cd&_x_ddjb_act=%7B%22st%22%3A%223%22%7D&duoduo_type=2> |
-
----
-
-## 统计概览
-
-| 平台 | 主题色 | 活动数量 |
-| ------ | -------- | --------- |
-| 京东 | `#E2231A` | 8 个 |
-| 淘宝 | `#FF5000` | 11 个 |
-| 拼多多 | `#E91E63` | 5 个 |
-| **合计** | - | **24 个** |
